@@ -1,0 +1,15 @@
+*.csproj
+*.sln
+Elinstallation_VR/.vs/
+Elinstallation_VR/Library/
+Elinstallation_VR/obj/
+Elinstallation_VR/Temp/
+build_wireDemo/
+build_TubeDemo/
+local_builds/
+Builds2018-08-29/
+Elinstallation_VR/Assets/ProBuilder Data/ProBuilderPreferences.asset
+Conductive/Library/
+Conductive/Temp/
+Conductive/obj/
+Conductive/.vs/
