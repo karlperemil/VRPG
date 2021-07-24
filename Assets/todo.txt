@@ -1,0 +1,3 @@
+die -> remove all enemies
+change mountain texture less contrast
+
